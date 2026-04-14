@@ -6,4 +6,4 @@ Feature
 -Responsive carousal
 
 #liveDemo
-viewlive
+viewlive(https://jngwuoke-Ngwuoke.github.io/Chukwuebuka)
